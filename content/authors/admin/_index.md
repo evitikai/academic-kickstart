@@ -40,6 +40,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,6 +48,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/emmaviti
+
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,6 +69,10 @@ email: ""
 # user_groups:
 #- Researchers
 #- Visitors
-# ---
+# 
+
+---
 
 Emma Vitikainen is a professor of Ecology at the Organismal and Evolutionary Biology Research program, University of Helsinki. Her research interests include evolutionary ecology of social behaviour, particularly impacts of early life environment on patterns of health and senescence, and ultimately on life history evolution in human and non-human animals. She works on a number of model systems, including wild natural populations of banded mongooses in Uganda, and long term study of ant colonies in the coast of Finland. She is also part of a research team Finnbrain looking at effects of maternal welfare on child development in a Finnish cohort study.
+
+
