@@ -25,15 +25,18 @@ bio: My research interests include evolutionary ecology of cooperative behaviour
 interests:
 - Social evolution
 - Behavioural ecology
-- Early life effects 
+- Early life effects
 - Social effects on health and ageing
 
 education:
-  - PhD in Evolutionary biology. Thesis: Causes and consequences of inbreeding in the ant Formica exsecta 
-  institution: University of Helsinki
-  year: 2010
-  - MSc in Ecology and evolution. year: 2006
-  
+ - PhD in Evolutionary biology. Thesis: Causes and consequences of inbreeding in the ant Formica exsecta
+    institution: University of Helsinki
+    year: 2010
+  - MSc in Ecology and evolution
+    institution: University of Helsinki
+    year: 2006
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
