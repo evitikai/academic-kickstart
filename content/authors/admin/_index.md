@@ -20,6 +20,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution and early life effects on life history strategies  
+bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution, and early life effects on life history traits  
 
+interests:
+- Social evolution
+- Behavioural ecology
+- Early life effects
+- Social effects on health and ageing
+
+education:
+ - PhD in Evolutionary biology. Thesis: Causes and consequences of inbreeding in the ant Formica exsecta
+    institution: University of Helsinki
+    year: 2010
+  - MSc in Ecology and evolution
+    institution: University of Helsinki
+    year: 2006
+    
 ---
