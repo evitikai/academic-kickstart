@@ -28,9 +28,4 @@ interests:
 - Early life effects
 - Social effects on health and ageing
 
-education:
-- PhD in Evolutionary biology. Thesis: Causes and consequences of inbreeding in the ant Formica exsecta. University of Helsinki, 2010
-- MSc in Ecology and evolution. University of Helsinki, 2006
-
-
 ---
