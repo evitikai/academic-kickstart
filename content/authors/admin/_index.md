@@ -21,3 +21,5 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution and early life effects on life history strategies  
+
+---
