@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Ecology
+role: Adjunct professor in Evolution and Ecology (docent)
 
 # Organizations/Affiliations
 organizations:
@@ -20,12 +20,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution, and early life effects on life history traits  
+bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution, and early life effects on life history traits. I am especially interested in investigating links between stress physiology, social behaviour and life history traits, in social mammals including humans. 
 
 interests:
 - Social evolution
 - Behavioural ecology
 - Early life effects
 - Social effects on health and ageing
+- Stress physiology
 
 ---
