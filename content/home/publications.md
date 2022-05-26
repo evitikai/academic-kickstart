@@ -7,10 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Please see my orcid profile"
 
 [content]
+
+https://orcid.org/0000-0003-3718-0941
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
